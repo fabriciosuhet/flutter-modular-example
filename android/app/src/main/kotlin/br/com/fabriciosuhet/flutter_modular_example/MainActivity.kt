@@ -1,0 +1,6 @@
+package br.com.fabriciosuhet.flutter_modular_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
